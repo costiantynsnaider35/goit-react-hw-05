@@ -1,0 +1,8 @@
+.app {
+  width: 100vw;
+  height: 100vh;
+}
+.appContent {
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
