@@ -1,0 +1,18 @@
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.active {
+  color: rgb(198, 71, 29);
+  font-weight: bold;
+}
+.nav {
+  display: flex;
+  gap: 100px;
+  font-size: 25px;
+}
